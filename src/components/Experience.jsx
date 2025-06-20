@@ -15,6 +15,19 @@ const experiences = [
     ],
     logo: 'https://yt3.googleusercontent.com/_mtf7vCqvNqWvS8Q6VfIgEZJ5PwnUP9fuE78VzPDMoc4pTVA6crwEwSef1HejeY1BRqLtuJpIr4=s160-c-k-c0x00ffffff-no-rj'
   }
+   {
+    company: 'Perspectiwitty',
+    role: 'Junior Web Developer',
+    duration: 'April 2025 – Present',
+    location: 'Mumbai, India',
+    responsibilities: [
+      'Developing responsive websites and landing pages using HTML, CSS, and JavaScript.',
+      'Customizing and maintaining WordPress sites, ensuring mobile responsiveness and SEO-friendly structures.',
+      'Collaborating with designers to translate Figma designs into functional web components.',
+      'Performing cross-browser testing and fixing UI/UX issues for smooth user experience.',
+    ],
+    logo: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAATCAMAAAC0hZ1zAAAAb1BMVEX////6+vrR0dHX19evr6+Xl5fJycnr6+sAAAABAQYLCw0RERIWFhh3d3eOjo5xcXKenp6/v78hISIoKCmUlJRpaWkeHh9QUFElJSY6OjtGRkdYWFmoqKgzMzTU1NTz8/O0tLSDg4Pi4uJMTEyIiIg1auN4AAAA8UlEQVR4AZXMBYKEMBAEwMbCxJCgi8Pt/994SeBct+LSgwcEYRjFCcN3UuKCS0Ua70VZXpSFKXnl8RpvGlKtkkolXV95lOIS3FR1ErGoPDPgMrbVpR9y45a+EhN8OKTqVT9XVSuHrjddscCaVGuj0lRK2leh8mIFyQ1ezbO9laUWBZP9zHJYC5XwNJV7K5aR2E797UhgxbTCy2ktFKEmdhSUQMOKCKddICZCuQXA0wTtMuEdHmNNcNwJXrysY/MuWUSufrLBiaZo8/cGToDNlTgY4BfJcrdOOGXTAYCmFMBaEHNXIy4bc9dTGsJK4xT/8wwo5xFv2sFOFAAAAABJRU5ErkJggg=='
+  }
 ];
 
 function Experience() {
